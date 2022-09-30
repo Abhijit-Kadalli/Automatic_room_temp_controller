@@ -14,4 +14,8 @@
 | U3         | 1        | LCD 16 x 2                 |
 
 ## Schematic View
+
 ![Screenshot](autoroomtemp.png)
+
+## Tinkercad Link
+https://www.tinkercad.com/things/lpe97siHaY9
